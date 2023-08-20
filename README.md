@@ -26,8 +26,11 @@
 - **Mission**: Leading the way in Web3 development and beyond.
 
 🚀 **Languages & Skills**:
-- **Web3 Development**: Expertise in building decentralized applications and integrating blockchain technologies.
-- **AI & Machine Learning**: Passionate about creating intelligent systems and exploring the vast possibilities of AI research.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-2B2B2B?style=flat-square)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 🔗 **Portal to the Digital Realm**: [asimov.dev](https://asimov.dev)
-
