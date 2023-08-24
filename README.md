@@ -38,4 +38,4 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-🔗 **Portal to the Digital Realm**: [asimov.dev](https://asimov.dev)
+🔗 **Portal to the Digital Realm**: [GPT-RESEARCHER]([https://asimov.dev](https://github.com/assafelovic/gpt-researcher)https://github.com/assafelovic/gpt-researcher)
