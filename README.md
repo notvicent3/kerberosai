@@ -67,4 +67,8 @@ And here is the next, Thesis.
 
 ### 🙏 Special Thanks
 
-Special thanks to @assafelovic, @jcuel, Pepa, and Nicolás for their support and collaboration.
+**Assaf Elovic**:[Github Profile](https://github.com/assafelovic/) 
+**Jcuel**:[Github Profile](https://github.com/jcuel/) 
+**Pepa**
+**Nico**
+**Irene**
