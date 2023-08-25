@@ -1,4 +1,4 @@
-### 🏰🎉 Welcome to KerberosAI's Digital Fortress: A Symphony of Code & Creativity! 🎉🏰
+### 🏰 Welcome to KerberosAI's Digital Fortress: A Symphony of Code & Creativity! 🏰
 
 ![KerberosAI's Guardian - Cerberus](https://cdn.leonardo.ai/users/85b8cb83-3466-42d9-bdab-f4599fd0c092/generations/d0eaf4e1-1c14-4be5-9ee9-59dc81d172c7/variations/Default_three_head_cerberus_Bold_graphic_illustration_glowing_3_d0eaf4e1-1c14-4be5-9ee9-59dc81d172c7_1.jpg)
 
