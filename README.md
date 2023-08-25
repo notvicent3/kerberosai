@@ -16,7 +16,7 @@ And here is the next, Thesis.
 
 #### 🎮 Achievements Unlocked
 
-- 🤝 **Collaborator**: Proud contributor to [GPTResearcher](https://github.com/assafelovic/gpt-researcher) by Assaf Elovic.
+- 🤝 **Collaborator**: Proud contributor to [GPTResearcher](https://github.com/assafelovic/gpt-researcher) 
   ![GPT-Researcher](https://ph-files.imgix.net/e3c11ea0-29c5-4e81-b732-72fd9579ed91.jpeg)
 - 🌌 **Star Explorer**: Ventured into the [Aragonia Project](https://github.com/kerberosai/aragonia).
 - 🛡️ **Heraldry Historian**: Explored the world of heraldry, history, and genealogy with [Linaje](https://github.com/kerberosai/linaje).
