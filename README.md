@@ -32,6 +32,29 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 
 ![TensorFlow Love](https://media.licdn.com/dms/image/D4D22AQE76iZrEMp8JQ/feedshare-shrink_800/0/1689144039119?e=1695859200&v=beta&t=491VZpWEahVIy9kJsDTAVxGbhDYv5GC4hvNsizjOrDk)
 
+
+## 🌐 AQR: Advanced AI & Deep Learning for Healthcare Diagnostics 👩‍⚕️
+
+[![AQR GitHub Repo](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/kerberosai/aqr)
+
+### In Loving Memory of My Grandmother Angelita ❤️
+
+#### 🎓 Academic Context
+
+- **Introduction**: This project serves as my Thesis Project for the AI in Healthcare course at Stanford Medicine.
+- **Objectives**: To create a reliable AI-driven diagnostic tool and integrate predictive analytics for future healthcare risks.
+- **Scope**: The project is designed to be a comprehensive solution that leverages cutting-edge technologies to solve real-world problems in healthcare.
+
+#### 🌌 The Story Behind the Name AQR
+
+- **Origin**: The name "AQR" is inspired by the constellation Aquarius, symbolizing the Water-Bearer. Vincent, a key contributor to this project, was born on February 14th, under the Aquarius zodiac sign.
+- **Symbolism**: The constellation has been associated with various mythologies and symbolisms, but here it stands for innovation, fluidity, and the quest to bring life-giving solutions to healthcare.
+
+#### 📣 Important Announcement
+
+Upon the completion of my surgery and treatment, the code for this project will be donated to Stanford University and released on GitHub under the MIT License.
+
+
 #### 📊 Progress & Contributions
 
 ![GitHub Contributions (Last Month)](https://ghchart.rshah.org/kerberosai?timeframe=month)
