@@ -14,9 +14,16 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 
 #### 🏆🎮 Achievements Unlocked: A Chronicle of Success 🎮🏆
 
-- 🤝 **Collaborator**: Proud contributor to [GPTResearcher](https://github.com/assafelovic/gpt-researcher) 
+- 🤝 **Proud Contributor**: Actively contributing to the cutting-edge project [GPT-Researcher](https://github.com/assafelovic/gpt-researcher).
+
+- 🌍 **Thesis: The State-of-Art Tech to Understand Our World, History, and Future**: Creator of [Thesis](https://github.com/kerberosai/thesis), a groundbreaking project that aims to redefine the boundaries of gaming, history, and reality itself. Leveraging technologies like VR, AR, IoT, Deep Learning, and Unreal Engine 5.2 under GNU Affero v3 license.
+
+- 👗 **Physis Innovator**: The brain behind [Physis](https://github.com/kerberosai/physis), a revolutionary concept aiming to transform the future of fashion through Python, TensorFlow, Unreal Engine 5.2, Blender, ARKit, ARCore, Metahumans, StableDiffusion, Scrapy, Django, and MongoDB.
+
 - 🌌 **Star Explorer**: Ventured into the [Aragonia Project](https://github.com/kerberosai/aragonia).
+
 - 🛡️ **Heraldry Historian**: Unraveled the mysteries of heraldry with [Linaje](https://github.com/kerberosai/linaje).
+
 - 🎨 **UI Artisan**: Sculpted open-source UI masterpieces with [OpenUI](https://github.com/kerberosai/openui).
 
 ![TensorFlow Love](https://media.licdn.com/dms/image/D4D22AQE76iZrEMp8JQ/feedshare-shrink_800/0/1689144039119?e=1695859200&v=beta&t=491VZpWEahVIy9kJsDTAVxGbhDYv5GC4hvNsizjOrDk)
