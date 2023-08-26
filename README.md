@@ -26,7 +26,9 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 
 - 🎨 **UI Artisan**: Sculpted open-source UI masterpieces with [OpenUI](https://github.com/kerberosai/openui).
 
-## Months ago learning in DeepLearning.ai to improve my skills with CNN **
+---
+
+## Months ago learning in DeepLearning.ai to improve my skills with CNN 
 
 ![TensorFlow Love](https://media.licdn.com/dms/image/D4D22AQE76iZrEMp8JQ/feedshare-shrink_800/0/1689144039119?e=1695859200&v=beta&t=491VZpWEahVIy9kJsDTAVxGbhDYv5GC4hvNsizjOrDk)
 
