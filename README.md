@@ -8,7 +8,7 @@
 
 #### 🌟🚀 The Odyssey of KerberosAI: A Tale of Triumphs & Innovations 🚀🌟
 
-From the inception of my journey as a developer, I've embarked on quests to create and manage groundbreaking projects. Inspired by legends and wisdom, I've forged a path of innovation and creativity.
+From the inception of my journey as a developer creating Dream WoW with [jcuel](https://github.com/jcuel) , I've embarked on quests to create and manage groundbreaking projects. Inspired by legends and wisdom, I've forged a path of innovation and creativity.
 
 ![Vicente's Journey](https://media.licdn.com/dms/image/D4D22AQHROUQAtvD85A/feedshare-shrink_800/0/1688957760779?e=1695859200&v=beta&t=DF2pGu1OEDMz1p9r9A5GXK5liq58c7YFCkRitB6KkF0)
 
