@@ -27,11 +27,13 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 
 ### 🙏 Special Thanks
 
-- **Assaf Elovic**: [Github Profile](https://github.com/assafelovic/) 
-- **Jcuel**: [Github Profile](https://github.com/jcuel/) 
+- [Assaf Elovic](https://github.com/assafelovic)
+- [jcuel](https://github.com/jcuel)
 - **Pepa**
 - **Nico**
 - **Irene**
+- **Xavi**
+- Begoña
 
 ### 🌐 Connect with Me
 
