@@ -33,7 +33,7 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 - **Nico**
 - **Irene**
 - **Xavi**
-- Begoña
+- **Begoña**
 
 ### 🌐 Connect with Me
 
