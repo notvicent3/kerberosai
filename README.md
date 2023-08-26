@@ -16,15 +16,17 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 
 - 🤝 **Proud Contributor**: Contributing to the cutting-edge project [GPT-Researcher](https://github.com/assafelovic/gpt-researcher).
 
-- 🌍 **Thesis: The State-of-Art Tech to Understand Our World, History, and Future**: Creator of [Thesis](https://github.com/kerberosai/thesis), a groundbreaking project that aims to redefine the boundaries of gaming, history, and reality itself. Leveraging technologies like VR, AR, IoT, Deep Learning, and Unreal Engine 5.2 under GNU Affero v3 license.
+- 🌍 **Thesis**: Creator of [Thesis](https://github.com/kerberosai/thesis), a groundbreaking project that aims to redefine the boundaries of gaming, history, and reality itself. Leveraging technologies like [VR](https://github.com/ValveSoftware/openvr), [AR](https://github.com/google-ar/arcore-android-sdk), [IoT](https://github.com/iotaledger), [Deep Learning](https://github.com/tensorflow/tensorflow), and [Unreal Engine 5.2](https://www.unrealengine.com/) under [GNU Affero v3](https://github.com/licenses/agpl-3.0) license.
 
-- 👗 **Physis Innovator**: The brain behind [Physis](https://github.com/kerberosai/physis), a revolutionary concept aiming to transform the future of fashion through Python, TensorFlow, Unreal Engine 5.2, Blender, ARKit, ARCore, Metahumans, StableDiffusion, Scrapy, Django, and MongoDB.
+- 👗 **Physis Innovator**: The brain behind [Physis](https://github.com/kerberosai/physis), a revolutionary concept aiming to transform the future of fashion through [Python](https://github.com/python), [TensorFlow](https://github.com/tensorflow/tensorflow), [Unreal Engine 5.2](https://www.unrealengine.com/), [Blender](https://github.com/blender/blender), [ARKit](https://developer.apple.com/augmented-reality/arkit/), [ARCore](https://github.com/google-ar/arcore-android-sdk), [Metahumans](https://www.unrealengine.com/en-US/digital-humans), [StableDiffusion](https://github.com/CompVis/stablediff), [Scrapy](https://github.com/scrapy/scrapy), [Django](https://github.com/django/django), and [MongoDB](https://github.com/mongodb/mongo).
 
 - 🌌 **Star Explorer**: Ventured into the [Aragonia Project](https://github.com/kerberosai/aragonia).
 
 - 🛡️ **Heraldry Historian**: Unraveled the mysteries of heraldry with [Linaje](https://github.com/kerberosai/linaje).
 
 - 🎨 **UI Artisan**: Sculpted open-source UI masterpieces with [OpenUI](https://github.com/kerberosai/openui).
+
+## Months ago learning in DeepLearning.ai to improve my skills with CNN **
 
 ![TensorFlow Love](https://media.licdn.com/dms/image/D4D22AQE76iZrEMp8JQ/feedshare-shrink_800/0/1689144039119?e=1695859200&v=beta&t=491VZpWEahVIy9kJsDTAVxGbhDYv5GC4hvNsizjOrDk)
 
