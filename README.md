@@ -14,7 +14,7 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 
 #### 🏆🎮 Achievements Unlocked: A Chronicle of Success 🎮🏆
 
-- 🤝 **Proud Contributor**: Actively contributing to the cutting-edge project [GPT-Researcher](https://github.com/assafelovic/gpt-researcher).
+- 🤝 **Proud Contributor**: Contributing to the cutting-edge project [GPT-Researcher](https://github.com/assafelovic/gpt-researcher).
 
 - 🌍 **Thesis: The State-of-Art Tech to Understand Our World, History, and Future**: Creator of [Thesis](https://github.com/kerberosai/thesis), a groundbreaking project that aims to redefine the boundaries of gaming, history, and reality itself. Leveraging technologies like VR, AR, IoT, Deep Learning, and Unreal Engine 5.2 under GNU Affero v3 license.
 
