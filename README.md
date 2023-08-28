@@ -59,7 +59,7 @@ Upon the completion of my surgery and treatment, the code for this project will 
 ---
 
 
-## 🏰 wiki3: La Base de Datos de la Historia de España 
+## 🏰 wiki3: La Enciclopedia Gamificada de la Historia Humana 
 [![Wiki3 repo](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/kerberosai/wiki3) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-amarillo) ![Licencia](https://img.shields.io/badge/Licencia-MIT-azul)
 
 ![image](https://github.com/kerberosai/kerberosai/assets/132854638/974cc193-cc9f-413f-aa0f-500d3fbea2da)
