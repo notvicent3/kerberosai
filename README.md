@@ -82,6 +82,7 @@ Desde los primeros pobladores de la Península Ibérica hasta los momentos clave
 
 En un mundo donde la información histórica a menudo se ve influenciada por agendas y perspectivas ideológicas, buscamos proporcionar una alternativa imparcial y basada en hechos. La creciente preocupación por la distorsión de la historia nos inspiró a crear wiki3 como una plataforma confiable y auténtica donde los usuarios puedan acceder a una narrativa equilibrada y objetiva.
 
+---
 
 ### 🙏 Special Thanks
 
