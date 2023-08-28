@@ -62,6 +62,9 @@ Upon the completion of my surgery and treatment, the code for this project will 
 ## 🏰 wiki3: La Base de Datos de la Historia de España 
 [![Wiki3 repo](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/kerberosai/wiki3) ![Estado](https://img.shields.io/badge/Estado-En%20progreso-amarillo) ![Licencia](https://img.shields.io/badge/Licencia-MIT-azul)
 
+![image](https://github.com/kerberosai/kerberosai/assets/132854638/974cc193-cc9f-413f-aa0f-500d3fbea2da)
+
+
 ### 🌟 Introducción
 
 ¡Bienvenido a **wiki3: La Base de Datos de la Historia de España**! Este proyecto te sumergirá en un viaje inmersivo a través de los acontecimientos, las personas y las culturas que han moldeado la historia de España. A través de una fusión innovadora de tecnología y aprendizaje interactivo, estamos creando una experiencia que trasciende las páginas de un libro de historia tradicional.
