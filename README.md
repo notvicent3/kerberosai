@@ -57,9 +57,28 @@ From the inception of my journey as a developer creating in 2009 "Dream WoW Cust
 Upon the completion of my surgery and treatment, the code for this project will be donated to Stanford University and released on GitHub under the MIT License.
 
 
-#### 📊 Progress & Contributions
+## 🏰 wiki3: La Base de Datos de la Historia de España ![Estado](https://img.shields.io/badge/Estado-En%20progreso-amarillo) ![Licencia](https://img.shields.io/badge/Licencia-MIT-azul)
 
-![GitHub Contributions (Last Month)](https://ghchart.rshah.org/kerberosai?timeframe=month)
+## 🌟 Introducción
+
+¡Bienvenido a **wiki3: La Base de Datos de la Historia de España**! Este proyecto te sumergirá en un viaje inmersivo a través de los acontecimientos, las personas y las culturas que han moldeado la historia de España. A través de una fusión innovadora de tecnología y aprendizaje interactivo, estamos creando una experiencia que trasciende las páginas de un libro de historia tradicional.
+
+### 🔍 Visión
+
+Nuestra visión va más allá de una simple recopilación de datos históricos. Queremos que sientas la emoción de viajar en el tiempo, explorar las tramas intrincadas y descubrir las conexiones entre diferentes períodos. A través de herramientas avanzadas y tecnología de punta, queremos que la historia cobre vida en tus manos.
+
+#### El Poder de la Historia
+
+La historia es una ventana al pasado, pero también es un espejo que refleja quiénes somos en el presente. Nos permite comprender cómo han evolucionado las sociedades, cómo han surgido las culturas y cómo los individuos han influido en el curso de los acontecimientos. Creemos en el poder de la historia para inspirarnos y enseñarnos lecciones cruciales.
+
+#### Un Viaje a Través de los Siglos
+
+Desde los primeros pobladores de la Península Ibérica hasta los momentos clave de la historia moderna, nuestro proyecto te llevará en un emocionante viaje a través de los siglos. Explorarás civilizaciones antiguas, presenciarás la formación de reinos y naciones, y conocerás a figuras que han dejado una marca indeleble en el tiempo.
+
+#### Rompiendo Barreras Ideológicas
+
+En un mundo donde la información histórica a menudo se ve influenciada por agendas y perspectivas ideológicas, buscamos proporcionar una alternativa imparcial y basada en hechos. La creciente preocupación por la distorsión de la historia nos inspiró a crear wiki3 como una plataforma confiable y auténtica donde los usuarios puedan acceder a una narrativa equilibrada y objetiva.
+
 
 ### 🙏 Special Thanks
 
