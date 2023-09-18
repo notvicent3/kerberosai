@@ -11,7 +11,7 @@
 - 👗 **Physis Innovator**: [Physis Project](https://github.com/kerberosai/physis) using [Python](https://github.com/python), [TensorFlow](https://github.com/tensorflow/tensorflow), and more.
 - 🛡️ **Heraldry Historian**: [Linaje](https://github.com/kerberosai/linaje).
 
-## 📁 GPT-Researcher <3  
+## 📁 GPT-Researcher 💜  
 [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher/).
 
 Here's a glimpse of the [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) repository:
