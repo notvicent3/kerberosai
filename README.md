@@ -20,6 +20,4 @@
 [![Email](https://img.shields.io/badge/Email-kerberosai%40proton.me-blue?style=for-the-badge)](mailto:kerberosai@proton.me)
 
 ## 📊 Repository Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kerberosai&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerberosai&layout=compact&theme=dark)
