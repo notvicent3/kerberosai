@@ -1,6 +1,6 @@
 ### 🏰 Welcome to KerberosAI's Digital Fortress: A Symphony of Code & Creativity! 🏰
 
-![KerberosAI's Guardian - Cerberus](https://cdn.leonardo.ai/users/85b8cb83-3466-42d9-bdab-f4599fd0c092/generations/d0eaf4e1-1c14-4be5-9ee9-59dc81d172c7/variations/Default_three_head_cerberus_Bold_graphic_illustration_glowing_3_d0eaf4e1-1c14-4be5-9ee9-59dc81d172c7_1.jpg)
+![KerberosAI's Guardian - Cerberus](https://cdn.leonardo.ai/users/85b8cb83-3466-42d9-bdab-f4599fd0c092/generations/7222e8a9-9c55-4540-ad1e-e3d99ebe017a/PhotoReal_data_wise_global_intelligence_logo_enhancing_the_bin_0.jpg)
 
 ##### 🛠️ Technologies & Frameworks
 
