@@ -5,7 +5,7 @@
 ## 📁 GPT-Researcher 💜  
 [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher/).
 
-Here's a glimpse of the [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) repository:
+Help us contributing  👉 [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) 
 
 [![Video Thumbnail](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)
 
