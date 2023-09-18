@@ -6,14 +6,14 @@
 
 ## 🚀 Achievements
 
-- 🤝 **Proud Contributor**: [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher/stargazers).
+- 🤝 **Proud Contributor**: [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher/).
 - 📖 **Wiki3**: [Wiki3 Project](https://github.com/kerberosai/wiki3).
 - 🌍 **AQR Health**: [Thesis Project](https://github.com/kerberosai/aqr).
 - 🎨 **UI Artisan**: [OpenUI](https://github.com/kerberosai/openui).
 - 👗 **Physis Innovator**: [Physis Project](https://github.com/kerberosai/physis) using [Python](https://github.com/python), [TensorFlow](https://github.com/tensorflow/tensorflow), and more.
 - 🛡️ **Heraldry Historian**: [Linaje](https://github.com/kerberosai/linaje).
 
-## 📁 GPT-Researcher <3 [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher/).
+## 📁 GPT-Researcher <3 ## [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher/).
 
 Here's a glimpse of the [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) repository:
 
