@@ -8,7 +8,7 @@
 
 ## 🚀 Achievements
 
-- 🤝 **Proud Contributor**: [GPT-Researcher](https://github.com/assafelovic/gpt-researcher).
+- 🤝 **Proud Contributor**: [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)](https://github.com/assafelovic/gpt-researcher/stargazers).
 - 📖 **Wiki3**: [Wiki3 Project](https://github.com/kerberosai/wiki3).
 - 🌍 **AQR Health**: [Thesis Project](https://github.com/kerberosai/aqr).
 - 🎨 **UI Artisan**: [OpenUI](https://github.com/kerberosai/openui).
@@ -26,4 +26,5 @@
 
 Here's a glimpse of the [GPT-Researcher](https://github.com/assafelovic/gpt-researcher) repository:
 
-![GPT-Researcher](https://github.com/assafelovic/gpt-researcher/raw/main/assets/gpt-researcher.png)
+[![GPT-Researcher](https://user-images.githubusercontent.com/13554167/252265342-a00c89a6-a295-4dd0-b58d-098a31c40fda.mp4)](https://github.com/assafelovic/gpt-researcher)
+
